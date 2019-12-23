@@ -66,7 +66,7 @@ h3 {
 
 #photo1 {
   /* 3:2 */
-  background-image: url('./1.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
   background-position: 50% 50%;
   margin-right: 20px;
   width: 400px;
@@ -75,34 +75,34 @@ h3 {
 
 #photo4 {
   /* 3:4 */
-  background-image: url('./4.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
   width: 250px;
   height: 333px;
 }
 
 #photo2 {
   /* 4:3 */
-  background-image: url('./2.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
 }
 
 #photo3 {
   /* 4:3 */
-  background-image: url('./3.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
 }
 
 #photo5 {
   /* 4:3 */
-  background-image: url('./5.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
 }
 
 #photo6 {
   /* 4:3 */
-  background-image: url('./6.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
 }
 
 #photo7 {
   /* 4:3 */
-  background-image: url('./7.jpg');
+  background-image: url('http://resize.hswstatic.com/w_907/gif/santa-claus-orig.jpg');
 }
 .row {
   margin: 20px 0;
