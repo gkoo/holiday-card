@@ -1,0 +1,154 @@
+/*
+body {
+  background-color: #000;
+}
+*/
+#card {
+  background-color: #A31A2C;
+  border-radius: 25px;
+  padding: 25px;
+  position: relative;
+  width: 1100px;
+  height: 600px;
+}
+#card h1 {
+  color: #D7CAA6;
+  font-family: 'Qwigley', cursive;
+  font-size: 128px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  font-family: 'Rubik';
+  font-weight: normal;
+  font-size: 32px;
+  color: #fff;
+  text-align: center;
+}
+#content, #snowflakes {
+  position: absolute;
+  width: 100%;
+}
+#snowflakes {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+#content {
+  z-index: 2;
+}
+
+#header-container {
+  text-align: center;
+  width: 420px;
+}
+.clear {
+  clear: left;
+}
+.floatleft {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.photo {
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.small-photo {
+  /* 4:3 */
+  margin: 0 10px;
+  width: 200px;
+  height: 150px;
+}
+
+#photo1 {
+  /* 3:2 */
+  background-image: url('./1.jpg');
+  background-position: 50% 50%;
+  margin-right: 20px;
+  width: 400px;
+  height: 333px;
+}
+
+#photo4 {
+  /* 3:4 */
+  background-image: url('./4.jpg');
+  width: 250px;
+  height: 333px;
+}
+
+#photo2 {
+  /* 4:3 */
+  background-image: url('./2.jpg');
+}
+
+#photo3 {
+  /* 4:3 */
+  background-image: url('./3.jpg');
+}
+
+#photo5 {
+  /* 4:3 */
+  background-image: url('./5.jpg');
+}
+
+#photo6 {
+  /* 4:3 */
+  background-image: url('./6.jpg');
+}
+
+#photo7 {
+  /* 4:3 */
+  background-image: url('./7.jpg');
+}
+.row {
+  margin: 20px 0;
+}
+
+
+.snowflake {
+  background-image: url('./snowflake2.png');
+  opacity: 0.3;
+  width: 100px;
+  height: 112px;
+  position: absolute;
+  background-repeat: no-repeat;
+}
+#snowflake1 {
+  left: 0px;
+  top: 0px;
+}
+#snowflake2 {
+  left: 300px;
+  top: 115px;
+  background-size: 75px 84px;
+}
+#snowflake3 {
+  left: 263px;
+  top: 505px;
+  background-size: 50px 56px;
+}
+#snowflake4 {
+  background-size: 110px 124px;
+  left: 598px;
+  top: 485px;
+  width: 150px;
+  height: 168px;
+}
+#snowflake5 {
+  display: none;
+  left: 700px;
+  top: 325px;
+}
+#snowflake6 {
+  display: none;
+  left: 800px;
+  top: 50px;
+}
+#snowflake7 {
+  left: 61px;
+  top: 249px;
+}
